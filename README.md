@@ -11,3 +11,16 @@ The goal of this project is to implement an SDN-based solution using Mininet and
 5. Test UDP throughput: `h2 iperf -u -s &` and `h1 iperf -u -c 10.0.0.2 -b 10M`
 
 ## Expected Output & Proof of Execution
+## Expected Output & Proof of Execution
+
+**1. Functional Correctness (0% Dropped)**
+![Pingall Success](images/pingall.jpg)
+
+**2. TCP Performance Observation**
+![TCP Throughput](images/tcp.jpg)
+
+**3. UDP Performance Observation**
+![UDP Throughput](images/udp.jpg)
+
+**4. SDN Logic & Flow Rules**
+![OpenFlow Dump Flows](images/flows.png)
