@@ -14,13 +14,13 @@ The goal of this project is to implement an SDN-based solution using Mininet and
 ## Expected Output & Proof of Execution
 
 **1. Functional Correctness (0% Dropped)**
-![Pingall Success](images/pingall.jpg)
+![Pingall Success](images/pingall.png)
 
 **2. TCP Performance Observation**
-![TCP Throughput](images/tcp.jpg)
+![TCP Throughput](images/tcp.png)
 
 **3. UDP Performance Observation**
-![UDP Throughput](images/udp.jpg)
+![UDP Throughput](images/udp.png)
 
 **4. SDN Logic & Flow Rules**
 ![OpenFlow Dump Flows](images/flows.png)
